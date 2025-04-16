@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_list">
+        <item>Select a City</item> <!-- Empty item to show no initial selection -->
+        <item>Ahmedabad</item>
+        <item>Bengaluru</item>
+        <item>Coimbatore</item>
+        <item>Delhi</item>
+        <item>Hyderabad</item>
+        <item>Indore</item>
+        <item>Jaipur</item>
+        <item>Kochi</item>
+        <item>Kolkata</item>
+        <item>Lucknow</item>
+        <item>Ludhiana</item>
+        <item>Madurai</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Patna</item>
+        <item>Pune</item>
+        <item>Vadodra</item>
+        <item>Varanasi</item>
+    </string-array>
+    <string-array name="parameter_list">
+        <item>Select a Parameter</item>
+        <item>All Accidents</item>
+        <item>Persons Injured</item>
+        <item>Persons Killed</item>
+        <item>Accident Severity</item>
+    </string-array>
+</resources>

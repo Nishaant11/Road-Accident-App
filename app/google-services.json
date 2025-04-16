@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "826597908292",
+    "firebase_url": "https://road-accident-insights-default-rtdb.firebaseio.com",
+    "project_id": "road-accident-insights",
+    "storage_bucket": "road-accident-insights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826597908292:android:2be992b68d6930e47d0111",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBicMPn8YL2N0Q_2YQgs3ISnf_c272IqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

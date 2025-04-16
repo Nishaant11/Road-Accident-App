@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="graph_line_color">#FF0000  </color>
+    <color name="mygreen">#295A54</color>
+    <color name="grey">#dddddd</color>
+    <color name="underline">#5F5E5F</color>
+</resources>

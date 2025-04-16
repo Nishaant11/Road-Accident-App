@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Road Accident Insights</string>
+    <string name="select_city">Select City</string>
+    <string name="select_parameter"></string>
+    <string name="parameter_text">Parameter: %1$s</string>
+    <string name="year_text">Year: %1$s</string>
+    <string name="client_id">826597908292-eji0jbu861niqfcuomhp0bvgrprohfst.apps.googleusercontent.com</string>
+    <string name="your_string">
+        <u>SignUp</u>
+    </string>
+</resources>
